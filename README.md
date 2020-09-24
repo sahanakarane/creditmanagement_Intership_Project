@@ -1,1 +1,1 @@
-# creditmanagementwebsite task of Sparks Foundation Internship
+# creditmanagement website task of Sparks Foundation Internship
